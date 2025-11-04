@@ -1,0 +1,14 @@
+:root {
+    --bkgnd: #f0f0f0;
+    --txt: #101010;
+}
+
+pageTitle {
+    color: var(txt);
+}
+
+sierpinskiCanvas {
+    background: var(--bkgnd);
+    display: block;
+    margin: 0 auto;
+}
